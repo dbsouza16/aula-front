@@ -1,0 +1,43 @@
+body {
+    background-color: skyblue;
+    color: blue;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+button {
+    color: brown;  
+    font-weight: bold;
+    margin-inline-start: 20px;    
+    padding: 8px;
+}
+
+fieldset {
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 15px;
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 2px gray;
+    display: block;
+}
+
+input,select,textarea {
+    border-radius: 4px;
+    padding: 5px;
+    margin: 5px;
+}
+
+label {
+    font-weight: bold;
+    text-align: right;
+    display: inline-block;
+    padding-right: 5px;
+}
+
